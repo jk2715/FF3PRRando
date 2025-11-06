@@ -9,7 +9,7 @@ sell Antidotes to ensure runs are always completable.
 
 ## Treasure Randomization
 Shuffle all chest contents. This also includes items obtained from pots and the like. 
-Items gifted by NPCs, Key Items and other items obtained throught the story are not included.
+Items gifted by NPCs, Key Items and other items obtained through the story are not included.
 
 ## Background Music Randomization
 Shuffles background music. Certain fanfares such as those that play when obtaining an important item
@@ -18,7 +18,7 @@ or when a guest joins the party are not shuffled, as doing so causes a softlock 
 ## Job Randomization (Experimental)
 Shuffles all 21 obtainable jobs. Enabling this option will cause mallets to be given out at various points in the game and will disable the Toad status requirement for various dungeons to ensure all runs are completable.
 
-EXPERIMENTAL: Enabling this feature leads to a bug where certain jobs may take on rhe 3rd and 4th command of a different job. The game is still playable and jobs function normally otherwise
+EXPERIMENTAL: Enabling this feature leads to a bug where certain jobs may take on the 3rd and 4th command of a different job. The game is still playable and jobs function normally otherwise
 
 # Installation and Use
 Requires the following to be installed:
