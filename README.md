@@ -32,6 +32,8 @@ https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.
 Magicite:
 https://github.com/Silvris/Magicite/releases/download/v2.2.0/Magicite-2-2-0.zip
 
+Microsoft .NET 8 Runtime
+
 Once the installation is complete, you must export the game files using magicite. When running the randomizer, the resulting
 magicite export directory is required. The randomized files will save to the specified output folder, this folder should be 
 copied to the game directory at FINAL FANTASY III_Data\StreamingAssets\Magicite. A spoiler log is also generated in the randomizer directory.
