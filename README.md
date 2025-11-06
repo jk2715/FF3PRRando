@@ -1,7 +1,7 @@
 # FF3PRRando
 Randomizer for Final Fantasy III Pixel Remaster
 
-#Features:
+# Features:
 
 ## Shop Randomization
 Shuffle all shop inventory. Each shop will still sell the kind of inventory it is expected to, i.e. weapons shops will only sell weapons, magic shops will sell magic etc. Enabling this option will cause the Gnomish Bread shop in Tozus to always 
