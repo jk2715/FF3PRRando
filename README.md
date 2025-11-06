@@ -1,5 +1,5 @@
 # FF3PRRando
-Randomizer for Final Fantasy III Pixel Remaster
+Randomizer for Final Fantasy III Pixel Remaster. Currently still in Alpha, more features are planned for the future!
 
 # Features:
 
