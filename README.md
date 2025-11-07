@@ -34,9 +34,12 @@ https://github.com/Silvris/Magicite/releases/download/v2.2.0/Magicite-2-2-0.zip
 
 Microsoft .NET 8 Runtime
 
-Once the installation is complete, you must export the game files using magicite. When running the randomizer, the resulting
-magicite export directory is required. The randomized files will save to the specified output folder, this folder should be 
-copied to the game directory at FINAL FANTASY III_Data\StreamingAssets\Magicite. A spoiler log is also generated in the randomizer directory.
+Once the installation is complete, you must export the game files using magicite. To do this, you should find a folder named BepInEx already created in your game folder. From there, go into the config folder,
+you'll find a file named silvris.magicite.cfg. Open it in a text editor, and edit the line Export Enabled = false by setting it to true. Next, you'll want to launch FFIII as normal, if everything was setup correctly, you'll see
+a screen indicating files are being exported. Once that is completed, the game will close and you should see a folder named MagiciteExport in the following directory within your game folder: FINAL FANTASY III_Data\StreamingAssets. 
+
+When running the randomizer, you will be asked to provide your magicite export directory. The randomized files will save to the specified output folder, this folder should be 
+copied to the game directory at FINAL FANTASY III_Data\StreamingAssets\Magicite (if the Magicite folder does not exist you can just create it). A spoiler log is also generated in the randomizer directory.
 
 # Disclaimer
 The randomizer currently only runs on Windows, a Linux/Mac port may be considered in the future.
